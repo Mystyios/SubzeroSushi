@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Materials/Jupiter/M_Jupiter.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Materials/Jupiter/T_Jupiter.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Materials/Jupiter/T_NoiseMap.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Blueprints/AC_Jupiter.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Materials/Atmosphere/M_Jupiter_Atmosphere.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/5J/C4NHK9ZEUYS17H4TBA9EVL.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Materials/Starfield/M_Starfield.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Materials/Starfield/T_StarField.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/PU/B6JWLQA41EC3G1E0LT72KC.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/XZ/ZDHKMXBVAW0LO1S19WZPJJ.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/Subzero_Sushi/Content/Materials/Starfield/T_SolarSystem.uasset"
+			]
+		}
+	]
+}
