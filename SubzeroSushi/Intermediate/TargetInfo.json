@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SubzeroSushi",
+			"Path": "..\\Source\\SubzeroSushi.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SubzeroSushiEditor",
+			"Path": "..\\Source\\SubzeroSushiEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

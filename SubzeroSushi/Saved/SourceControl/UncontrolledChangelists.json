@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Lobby.umap",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Maps/Lobby.umap",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/BP_LobbyPlayerPlatform.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/BP_LobbyGM.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/BP_LobbyPawn.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/S_Player_Lobby_Info.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/WB_Player_Lobby_Info.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/BP_LobbyPC.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/WB_LobbyUI.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/BP_FriendList.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Maps/MainMenu.umap",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/MainMenu/BP_MainMenuPC.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/MainMenu/BP_MainMenuHud.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/MainMenu/WB_MainMenu.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/BP_OurGameInstance.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/MainMenu/BP_MainMenuGM.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/WB_SteamFriendList.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/WB_SteamFriend.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/WB_OpenFriendListButton.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Maps/GameplayMap.umap",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/GameplayMap/BP_GameplayMap.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/GameplayMap/BP_GameplayPC.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Maps/Main_Menu.umap",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/MainMenu/WP_MainMenu.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/SteamFriendsList/WB_SteamFriend.uasset",
+				"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Content/Blueprints/Lobby/SteamFriendsList/WB_SteamFriendList.uasset"
+			]
+		}
+	]
+}

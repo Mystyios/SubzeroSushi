@@ -1,0 +1,36 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Intermediate/Build/Win64/x64/SubzeroSushiEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.1.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.2.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.3.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedExternalUILibrary.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedFriendsGameInstance.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedFriendsInterface.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedFriendsLibrary.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedIdentityLibrary.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedSessions.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedSessionsLibrary.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AdvancedVoiceLibrary.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/AutoLoginUserCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/CancelFindSessionsCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/CreateSessionCallbackProxyAdvanced.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/EndSessionCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/FindFriendSessionCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/FindSessionsCallbackProxyAdvanced.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/GetFriendsCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/GetRecentPlayersCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/GetUserPrivilegeCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/LoginUserCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/LogoutUserCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/SendFriendInviteCallbackProxy.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/StartSessionCallbackProxyAdvanced.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/UpdateSessionCallbackProxyAdvanced.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/Default.rc2.res"
+/OUT:"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Plugins/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSessions/UnrealEditor-AdvancedSessions.lib"

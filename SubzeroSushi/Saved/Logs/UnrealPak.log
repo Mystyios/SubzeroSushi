@@ -1,0 +1,232 @@
+﻿Log file open, 01/30/26 15:12:35
+LogWindows: Enabling Tpause support
+LogTrace: Initializing trace...
+LogTrace: Finished trace initialization.
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-95D4D4854165527C3A3949BF414825F1
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogInit: ExecutableName: UnrealPak.exe
+LogInit: Build: ++UE5+Release-5.7-CL-49658320
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=7db0c298430a5f8d366bd5adc888c8f9
+LogInit: DeviceId=
+LogInit: Engine Version: 5.7.2-49658320+++UE5+Release-5.7
+LogInit: Compatible Engine Version: 5.7.0-47537391+++UE5+Release-5.7
+LogInit: Net CL: 47537391
+LogInit: OS: Windows 10 (22H2) [10.0.19045.6466] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700KF, GPU: NVIDIA GeForce RTX 3070
+LogInit: CPU Model ID: 6972, microcode revision: 26
+LogInit: Compiled (64-bit): Jan  9 2026 22:23:11
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.44.35222.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.7
+LogInit: Command Line: -CreateGlobalContainer="E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\StagedBuilds\Windows\SubzeroSushi\Content\Paks\global.utoc" -PackageStoreManifest="E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\Cooked\Windows\SubzeroSushi\Metadata\packagestore.manifest" -CookedDirectory="E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\Cooked\Windows" -Commands="C:\Users\ratzi\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.7\IoStoreCommands.txt" -ScriptObjects="E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\Cooked\Windows\SubzeroSushi\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken -cryptokeys="E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\Cooked\Windows\SubzeroSushi\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled -platform=Windows -nopak
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 225
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 15
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 11
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 121
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 61
+LogDevObjectVersion:   UE5-SpecialProject (59DA5D52-1232-4948-B878-597870B8E98B): 9
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
+LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2026.01.30-22.12.35:927][  0]LogConfig: Set CVar [[WindowsApplication.UseWorkerThreadForRawInput:0]]
+[2026.01.30-22.12.35:928][  0]LogInit: Computer: DESKTOP-27I434E
+[2026.01.30-22.12.35:928][  0]LogInit: User: ratzi
+[2026.01.30-22.12.35:928][  0]LogInit: CPU Page size=4096, Cores=12
+[2026.01.30-22.12.35:928][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.01.30-22.12.35:928][  0]LogInit: Handheld Device: 0
+[2026.01.30-22.12.35:928][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2026.01.30-22.12.35:928][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx) Virtual=38.8GB
+[2026.01.30-22.12.35:928][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.01.30-22.12.35:928][  0]LogMemory: Process Physical Memory: 82.43 MB used, 82.44 MB peak
+[2026.01.30-22.12.35:928][  0]LogMemory: Process Virtual Memory: 143.61 MB used, 143.61 MB peak
+[2026.01.30-22.12.35:928][  0]LogMemory: Physical Memory: 18150.48 MB used,  14448.99 MB free, 32599.48 MB total
+[2026.01.30-22.12.35:928][  0]LogMemory: Virtual Memory: 28084.29 MB used,  11617.01 MB free, 39701.29 MB total
+[2026.01.30-22.12.35:932][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2026.01.30-22.12.35:933][  0]LogUObjectArray: 620 objects as part of root set at end of initial load.
+[2026.01.30-22.12.35:933][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.01.30-22.12.35:933][  0]LogInit: Using OS detected language ().
+[2026.01.30-22.12.35:933][  0]LogInit: Using OS detected locale ().
+[2026.01.30-22.12.35:934][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.01.30-22.12.35:934][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.01.30-22.12.35:934][  0]LogInit: Using OS detected language ().
+[2026.01.30-22.12.35:934][  0]LogInit: Using OS detected locale ().
+[2026.01.30-22.12.35:934][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.01.30-22.12.35:934][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.01.30-22.12.35:934][  0]LogPakFile: Display: ProjectDir: E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/
+[2026.01.30-22.12.35:934][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2026.01.30-22.12.35:934][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\Cooked\Windows\SubzeroSushi\Metadata\Crypto.json'
+[2026.01.30-22.12.35:934][  0]LogIoStore: Display: Container signing - DISABLED
+[2026.01.30-22.12.35:934][  0]LogIoStore: Display: Directory index - ENABLED
+[2026.01.30-22.12.35:934][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2026.01.30-22.12.35:960][  0]LogConfig: Display: Read in platform Windows ini files took 0.03 seconds
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Using compression block size '65536'
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Using max partition size '0'
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Not using DDC for compression
+[2026.01.30-22.12.35:960][  0]LogIoStore: Display: Using command list file: 'C:\Users\ratzi\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.7\IoStoreCommands.txt'
+[2026.01.30-22.12.35:975][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2026.01.30-22.12.35:975][  0]LogIoStore: Display: Fetched 537 oplog items from Manifest in 0.00 seconds
+[2026.01.30-22.12.35:976][  0]LogIoStore: Display: Parsed 537 oplog items 0.00 seconds, 655 chunks
+[2026.01.30-22.12.35:979][  0]LogIoStore: Display: Using input asset registry: E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Saved/Cooked/Windows/SubzeroSushi/Metadata/DevelopmentAssetRegistry.bin
+[2026.01.30-22.12.35:981][  0]LogIoStore: Display: Loaded 125 chunk hashes from AssetRegistry in 0.00 seconds, 125 hashes updated in 0.00 seconds
+[2026.01.30-22.12.35:983][  0]LogIoStore: Display: Searching for cooked assets in folder 'E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\Cooked\Windows'
+[2026.01.30-22.12.35:994][  0]LogIoStore: Display: Found '1193' files
+[2026.01.30-22.12.36:002][  0]LogIoStore: Display: Creating container targets...
+[2026.01.30-22.12.36:004][  0]OodleDataCompression: Display: Oodle v2.9.14 format for pak/iostore with method=Kraken, level=4=Normal
+[2026.01.30-22.12.36:029][  0]LogIoStore: Display: Parsing packages...
+[2026.01.30-22.12.36:029][  0]LogIoStore: Display: Reading package assets...
+[2026.01.30-22.12.36:037][  0]LogIoStore: Display: Packages read 530 files in 0.01 seconds, 905,156 total bytes, 117,269,452 bytes per second
+[2026.01.30-22.12.36:038][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2026.01.30-22.12.36:105][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 722 groups (186 of them didn't need new indices), average uncompressed size 383724 bytes, min 1249 bytes, max 1083902 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.01.30-22.12.37:709][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 13090 shaders as 722 groups. Library size changed from 206126 KB (1.31 : 1 ratio) to 130596 KB (2.07 : 1 ratio), 63.36% of previous.
+[2026.01.30-22.12.37:731][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 387 groups (139 of them didn't need new indices), average uncompressed size 175708 bytes, min 249 bytes, max 1040706 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.01.30-22.12.37:816][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4658 shaders as 387 groups. Library size changed from 16034 KB (4.14 : 1 ratio) to 7055 KB (9.41 : 1 ratio), 44.00% of previous.
+[2026.01.30-22.12.37:829][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 197 groups (54 of them didn't need new indices), average uncompressed size 148195 bytes, min 2378 bytes, max 967472 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.01.30-22.12.37:951][  0]LogIoStore: Display: SubzeroSushi-PCD3D_SM6(PCD3D_SM6): Recompressed 2248 shaders as 197 groups. Library size changed from 21812 KB (1.31 : 1 ratio) to 14356 KB (1.99 : 1 ratio), 65.82% of previous.
+[2026.01.30-22.12.37:955][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 169 groups (70 of them didn't need new indices), average uncompressed size 77261 bytes, min 490 bytes, max 966610 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.01.30-22.12.37:974][  0]LogIoStore: Display: SubzeroSushi-PCD3D_SM5(PCD3D_SM5): Recompressed 1162 shaders as 169 groups. Library size changed from 3447 KB (3.70 : 1 ratio) to 1451 KB (8.78 : 1 ratio), 42.11% of previous.
+[2026.01.30-22.12.37:974][  0]LogIoStore: Display: Shaders processed in 1.94 seconds
+[2026.01.30-22.12.37:975][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=10 (20 cores), MaxSourceBufferMemory=3072MiB
+[2026.01.30-22.12.37:976][  0]LogIoStore: Display: Processing redirects...
+[2026.01.30-22.12.37:976][  0]LogIoStore: Display: Creating disk layout...
+[2026.01.30-22.12.37:976][  0]LogIoStore: Display: Ordered 530 packages using fallback bundle order
+[2026.01.30-22.12.37:986][  0]LogIoStore: Display: Serializing container(s)...
+[2026.01.30-22.12.39:987][  0]LogIoStore: Display: Writing chunks 678/2135... [655 compressed] [Physical: 988 MiB, Virtual: 3602 MiB]
+[2026.01.30-22.12.41:987][  0]LogIoStore: Display: Writing chunks 976/2135... [655 compressed] [Physical: 988 MiB, Virtual: 3603 MiB]
+[2026.01.30-22.12.43:987][  0]LogIoStore: Display: Writing chunks 1743/2135... [655 compressed] [Physical: 988 MiB, Virtual: 3604 MiB]
+[2026.01.30-22.12.45:987][  0]LogIoStore: Display: Writing chunks 1992/2135... [655 compressed] [Physical: 988 MiB, Virtual: 3604 MiB]
+[2026.01.30-22.12.47:481][  0]LogIoStore: Display: Writing and compressing took 9.43 seconds, writes to disk took 9.42 seconds for 295,562,512 bytes @ 31,385,137 bytes per second.
+[2026.01.30-22.12.47:481][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2026.01.30-22.12.47:482][  0]LogIoStore: Display: SubzeroSushi-Windows: Found perfect hashmap for 2134 items.
+[2026.01.30-22.12.47:500][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 220,853 bytes, 11,221,635 bytes per second
+[2026.01.30-22.12.47:500][  0]LogIoStore: Display: Writing tocs... [Physical: 988 MiB, Virtual: 3604 MiB]
+[2026.01.30-22.12.47:500][  0]LogIoStore: Display: 125 / 2,135 hashes were loaded from the hash database, by type:
+[2026.01.30-22.12.47:500][  0]LogIoStore: Display:     BulkData                   125
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 655 / 2,135 chunks attempted to compress, by type:
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     ExportBundleData           530 / 530
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     BulkData                   125 / 125
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     ShaderCode                 0 / 1,474
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Source bytes read:
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     Zen:                                  0
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     Loose File:                 368,230,370
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:         ExportBundleData        341,260,186 bytes over 1,060 reads
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:         BulkData                 26,970,184 bytes over 125 reads
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:     Memory:                     315,955,692
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:         ShaderCodeLibrary         1,671,376 bytes over 8 reads
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display:         ShaderCode              314,284,316 bytes over 2,948 reads
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Calculating stats...
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Container Summary
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ==================
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.67                 2.53                 2.53 -
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: SubzeroSushi-Windows                                C/-/-/I/-            2134          215.01               341.24               279.34 (18.14% Oodle)
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Total                                                                    2135          215.68               343.77               281.87
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Compression block padding:     1.58 MiB
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Container Directory Index
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ==========================
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: global                                                   0.00
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: SubzeroSushi-Windows                                    31.94
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Container Patch Report
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ========================
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: SubzeroSushi-Windows                                     2134                0             2134             0.00           277.76
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: PackageStore
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: =============
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: SubzeroSushi-Windows                                       17             530               0
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Total                                                      17             530               0
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Input:       530 Packages
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Input:    162.73 MiB UExp
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Input:    883.94 KiB UAsset
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Input:     25.72 MiB UBulk
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Input:    134.43 MiB for 1109 Global shaders
+[2026.01.30-22.12.47:501][  0]LogIoStore: Display: Input:      1.44 MiB for 162 Shared shaders
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Input:         0   B for 0 Unique shaders
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Input:     14.00 MiB for 203 Inline shaders
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Output:     6172 Name map entries
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Output:      592 Imported package entries
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Output:      305 Packages without imports
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Output:   545.06 KiB HeaderData
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Output:     2.53 MiB InitialLoadData
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: 
+[2026.01.30-22.12.47:512][  0]LogIoStore: Display: Success
+[2026.01.30-22.12.47:523][  0]LogPakFile: Display: UnrealPak executed in 11.588484 seconds
+[2026.01.30-22.12.47:526][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2026.01.30-22.12.47:526][  0]LogExit: Preparing to exit.
+[2026.01.30-22.12.47:527][  0]LogExit: Object subsystem successfully closed.
+[2026.01.30-22.12.47:528][  0]LogPakFile: Destroying PakPlatformFile
+[2026.01.30-22.12.47:528][  0]LogExit: Exiting.
+[2026.01.30-22.12.47:548][  0]Log file closed, 01/30/26 15:12:47

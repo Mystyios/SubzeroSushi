@@ -1,0 +1,127 @@
+﻿Log file open, 01/30/26 15:12:34
+LogWindows: Enabling Tpause support
+LogTrace: Initializing trace...
+LogTrace: Finished trace initialization.
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6068E9E440CFE0C02C502EA1A53A7174
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogInit: ExecutableName: UnrealPak.exe
+LogInit: Build: ++UE5+Release-5.7-CL-49658320
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=7db0c298430a5f8d366bd5adc888c8f9
+LogInit: DeviceId=
+LogInit: Engine Version: 5.7.2-49658320+++UE5+Release-5.7
+LogInit: Compatible Engine Version: 5.7.0-47537391+++UE5+Release-5.7
+LogInit: Net CL: 47537391
+LogInit: OS: Windows 10 (22H2) [10.0.19045.6466] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700KF, GPU: NVIDIA GeForce RTX 3070
+LogInit: CPU Model ID: 6972, microcode revision: 26
+LogInit: Compiled (64-bit): Jan  9 2026 22:23:11
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.44.35222.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.7
+LogInit: Command Line: -cryptokeys="E:\Animation and Game Design\Subzero Sushi\SubzeroSushi\SubzeroSushi\Saved\Cooked\Windows\SubzeroSushi\Metadata\Crypto.json" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken -platform=Windows -CreateMultiple="C:\Users\ratzi\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.7\PakCommands.txt" -nopak
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 225
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 15
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 11
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 121
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 61
+LogDevObjectVersion:   UE5-SpecialProject (59DA5D52-1232-4948-B878-597870B8E98B): 9
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
+LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2026.01.30-22.12.35:030][  0]LogConfig: Set CVar [[WindowsApplication.UseWorkerThreadForRawInput:0]]
+[2026.01.30-22.12.35:030][  0]LogInit: Computer: DESKTOP-27I434E
+[2026.01.30-22.12.35:030][  0]LogInit: User: ratzi
+[2026.01.30-22.12.35:030][  0]LogInit: CPU Page size=4096, Cores=12
+[2026.01.30-22.12.35:030][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.01.30-22.12.35:030][  0]LogInit: Handheld Device: 0
+[2026.01.30-22.12.35:030][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2026.01.30-22.12.35:030][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx) Virtual=38.8GB
+[2026.01.30-22.12.35:030][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.01.30-22.12.35:030][  0]LogMemory: Process Physical Memory: 81.93 MB used, 81.93 MB peak
+[2026.01.30-22.12.35:030][  0]LogMemory: Process Virtual Memory: 138.89 MB used, 138.89 MB peak
+[2026.01.30-22.12.35:030][  0]LogMemory: Physical Memory: 18147.42 MB used,  14452.05 MB free, 32599.48 MB total
+[2026.01.30-22.12.35:030][  0]LogMemory: Virtual Memory: 28071.45 MB used,  11629.84 MB free, 39701.29 MB total
+[2026.01.30-22.12.35:035][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2026.01.30-22.12.35:036][  0]LogUObjectArray: 620 objects as part of root set at end of initial load.
+[2026.01.30-22.12.35:036][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.01.30-22.12.35:036][  0]LogInit: Using OS detected language ().
+[2026.01.30-22.12.35:036][  0]LogInit: Using OS detected locale ().
+[2026.01.30-22.12.35:037][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.01.30-22.12.35:037][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.01.30-22.12.35:037][  0]LogInit: Using OS detected language ().
+[2026.01.30-22.12.35:037][  0]LogInit: Using OS detected locale ().
+[2026.01.30-22.12.35:037][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.01.30-22.12.35:037][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.01.30-22.12.35:037][  0]LogPakFile: Display: ProjectDir: E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/
+[2026.01.30-22.12.35:037][  0]LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2026.01.30-22.12.35:037][  0]LogPakFile: Engine only spawned 18 worker threads, bumping up to 19!
+[2026.01.30-22.12.35:039][  0]LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2026.01.30-22.12.35:039][  0]LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
+[2026.01.30-22.12.35:039][  0]LogPakFile: Display: Loading response file C:\Program Files\Epic Games\UE_5.7\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_SubzeroSushi-Windows.txt
+[2026.01.30-22.12.35:056][  0]LogPakFile: Display: Added 1678 entries to add to pak file.
+[2026.01.30-22.12.35:056][  0]LogPakFile: Display: Collecting files to add to pak file...
+[2026.01.30-22.12.35:061][  0]LogPakFile: Display: Collected 1678 files in 0.00s.
+[2026.01.30-22.12.35:171][  0]LogPakFile: Display: Creating pak E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Saved/StagedBuilds/Windows/SubzeroSushi/Content/Paks/SubzeroSushi-Windows.pak.
+[2026.01.30-22.12.35:173][  0]OodleDataCompression: Display: Oodle v2.9.14 format for pak/iostore with method=Kraken, level=4=Normal
+[2026.01.30-22.12.35:626][  0]LogPakFile: Display: Created pak file: E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Saved/StagedBuilds/Windows/SubzeroSushi/Content/Paks/SubzeroSushi-Windows.pak
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: CompressionFormat 0 [Oodle] : 374 files, 29503006 -> 9637101 bytes
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: CompressionFormat 2 [None] : 1304 files, 765232 -> 765232 bytes
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: Added 1678 files, 11046606 bytes total
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: PrimaryIndex size: 23462 bytes
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: PathHashIndex size: 51049 bytes
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: FullDirectoryIndex size: 54142 bytes
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: Compression summary: 32.66% of original size. Compressed Size 9637101 bytes, Original Size 29503006 bytes. 
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: Encryption - DISABLED
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: 
+[2026.01.30-22.12.35:645][  0]LogPakFile: Display: Writer and Compression Threads exited.
+[2026.01.30-22.12.35:646][  0]LogPakFile: Display: UnrealPak executed in 0.608671 seconds
+[2026.01.30-22.12.35:657][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2026.01.30-22.12.35:657][  0]LogExit: Preparing to exit.
+[2026.01.30-22.12.35:658][  0]LogExit: Object subsystem successfully closed.
+[2026.01.30-22.12.35:658][  0]LogPakFile: Destroying PakPlatformFile
+[2026.01.30-22.12.35:659][  0]LogExit: Exiting.
+[2026.01.30-22.12.35:679][  0]Log file closed, 01/30/26 15:12:35

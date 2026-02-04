@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\source\\subzerosushi\\subzerosushi.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\intermediate\\build\\win64\\x64\\subzerosushi\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\intermediate\\build\\win64\\x64\\unrealgame\\development\\subzerosushi\\definitions.subzerosushi.h",
+            "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\source\\subzerosushi\\subzerosushi.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

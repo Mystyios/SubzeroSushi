@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SubzeroSushi.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Intermediate/Build/Win64/x64/SubzeroSushiEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Intermediate/Build/Win64/x64/UnrealEditor/Development/SubzeroSushi/SubzeroSushi.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Intermediate/Build/Win64/x64/UnrealEditor/Development/SubzeroSushi/MyClass.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Intermediate/Build/Win64/x64/UnrealEditor/Development/SubzeroSushi/PerModuleInline.gen.cpp.obj"
+"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Intermediate/Build/Win64/x64/UnrealEditor/Development/SubzeroSushi/Default.rc2.res"
+/OUT:"E:/Animation and Game Design/Subzero Sushi/SubzeroSushi/SubzeroSushi/Intermediate/Build/Win64/x64/UnrealEditor/Development/SubzeroSushi/UnrealEditor-SubzeroSushi.lib"

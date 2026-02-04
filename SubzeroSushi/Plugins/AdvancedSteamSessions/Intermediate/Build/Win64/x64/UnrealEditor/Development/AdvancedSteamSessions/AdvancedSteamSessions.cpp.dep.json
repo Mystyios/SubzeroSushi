@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\plugins\\advancedsteamsessions\\source\\advancedsteamsessions\\private\\advancedsteamsessions.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\intermediate\\build\\win64\\x64\\subzerosushieditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h",
+            "e:\\animation and game design\\subzero sushi\\subzerosushi\\subzerosushi\\plugins\\advancedsteamsessions\\source\\advancedsteamsessions\\classes\\advancedsteamsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
