@@ -103,3 +103,4 @@ Thumbs.db
 # Safety: project-specific overrides
 # =========================
 /SubzeroSushi/Binaries
+/SubzeroSushi/Saved/Config/CrashReportClient
